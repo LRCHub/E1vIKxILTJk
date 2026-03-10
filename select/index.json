@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆめゆめスターライト",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-10T01:40:49.018143Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめゆめスターライト feat.栗田りん&冴島まき&宇田川ほまれ&宇田川とまれ(CV:立花日菜&鬼頭明里&富田美憂&羊宮妃那)",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめゆめスターライト_feat.栗田りん&冴島まき&宇田川ほまれ&宇田川とまれ(CV_立花日菜&鬼頭明里&富田美憂&羊宮妃那)_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
